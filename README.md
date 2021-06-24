@@ -1,11 +1,13 @@
 # Barcode-Generator-128a
+
 Assembly programs for generating 128-A coded barcodes.
 
-Mips project tested with Mars 4.5 Simulator.
+#Mips project 
+Tested with Mars 4.5 Simulator.
 
-x86 project tested with NASM assembler and gcc compiler on a Linux system.
+#x86 project 
+Tested with NASM assembler and gcc compiler on a Linux system.
 
-
-Made for Computer Architecture class in Warsaw University of Technology.
+##Made for Computer Architecture class in Warsaw University of Technology.
 
 
