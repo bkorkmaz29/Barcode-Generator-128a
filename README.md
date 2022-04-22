@@ -8,6 +8,5 @@ Tested with Mars 4.5 Simulator.<br>
 ## x86 project 
 Tested with NASM assembler and gcc compiler on a Linux system.<br><br><br>
 
-### *Projects for Computer Architecture course in Warsaw University of Technology.*
 
 
